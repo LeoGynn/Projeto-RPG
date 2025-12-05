@@ -1,0 +1,16 @@
+Guerreiro;12;d10
+Assassino;8;d6
+Arqueiro;17;d12
+Mago;15;d20
+Sacerdote;9;d8
+Invocador;11;d10
+Kameria;60;d12
+Leya;90;d20
+Bergelius;90;d12
+Parakelius;90;d10
+Pauldron;90;d20
+Rumapark;90;d12
+Rekamies;90;d8
+Endendros;90;d10
+Pendatron;90;d6
+Lapiris;90;d12
